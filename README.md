@@ -4,13 +4,13 @@ Business sales performance analytics is the systematic evaluation of sales dataâ
 
 This project analyzes business sales data to identify revenue trends, top-selling products, high-value categories, and regional performance.
 
-## Tools Used
+## 1 Tools Used
 - Python
 - Streamlit
 - Pandas
 - Matplotlib
 
-## Features
+## 2 Features
 - Upload sales dataset
 - KPI analysis
 - Revenue trend visualization
@@ -19,7 +19,7 @@ This project analyzes business sales data to identify revenue trends, top-sellin
 - Auto-generated insights
 - Actionable recommendations
 
-## KPIs
+## 3 KPIs
 - Total Revenue
 - Total Profit
 - Total Orders
@@ -29,7 +29,7 @@ This project analyzes business sales data to identify revenue trends, top-sellin
 ## Project Outcome
 The dashboard helps businesses understand sales performance and make data-driven decisions.
 
-## How to Run
+## 4  How to Run
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
