@@ -1,7 +1,6 @@
 # Business-Sales-Performance-Analytics
 Business sales performance analytics is the systematic evaluation of sales data—including revenue, volume, and customer data—to measure, analyze, and optimize sales team effectiveness. It drives better decision-making by tracking key metrics like conversion rates and sales cycles, enabling predictive forecasting for improved revenue growth
 
-# Business Sales Performance Analytics
 
 This project analyzes business sales data to identify revenue trends, top-selling products, high-value categories, and regional performance.
 
